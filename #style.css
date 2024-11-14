@@ -1,18 +1,18 @@
 body {
-    color: #000;
-    background: #000;
+    color: hsl(58, 34%, 71%);
+    background: hsl(37, 72%, 69%);
     margin: 0px;
 }
 
 header {
-    border-bottom: solid 2px #000;
+    border-bottom: solid 2px hsl(0, 65%, 75%);
     padding: 20px;
     font-size: 32px;
-    color: #000;
+    color: #a5efba;
 }
 
 .chamada {
-    background: #000;
+    background: hsl(111, 90%, 76%);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -32,7 +32,7 @@ p {
 }
 
 footer {
-    background-color: #000;
+    background-color: #e399ec;
     color: #000;
     bottom: 0;
     position: fixed;
