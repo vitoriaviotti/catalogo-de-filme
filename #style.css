@@ -1,0 +1,47 @@
+body {
+    color: #000;
+    background: #000;
+    margin: 0px;
+}
+
+header {
+    border-bottom: solid 2px #000;
+    padding: 20px;
+    font-size: 32px;
+    color: #000;
+}
+
+.chamada {
+    background: #000;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
+
+footer {
+    background-color: #000;
+    color: #000;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
+
+footer p {
+    text-align: center;
+    font-size: 14px;
+    margin-top: 3px;
+}
+
